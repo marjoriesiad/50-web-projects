@@ -18,6 +18,11 @@ h1{
     margin-bottom: 50px;
 }
 
+p{
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
 .projects-list{
     display: flex;
     align-items: center;
@@ -31,7 +36,6 @@ h1{
 }
 
 .projects a{
-    margin-bottom: 15px;
     text-transform: uppercase;
     color: #000;
 }
